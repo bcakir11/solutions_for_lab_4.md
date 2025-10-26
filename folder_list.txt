@@ -1,0 +1,3 @@
+/home/birka/EXERCISES/
+/home/birka/HOMEWORK/
+/home/birka/test/
