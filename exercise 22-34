@@ -1,0 +1,41 @@
+exercise 22
+ls /home
+
+exercise 23
+ls /dev
+ls /etc
+ls /home
+ls /usr
+
+exercise 24
+mkdir ~/cat1
+
+exercise 25
+mkdir -p ~/cat1/cat2/cat3/cat4
+
+exercise 26
+rm -r ~/cat1/cat2/cat3/cat4
+
+exercise 27
+touch ~/dev_tools_file1.txt ~/dev_tools_file1.c
+
+exercise 28
+cp ~/*.txt ~/cat1/
+
+exercise 29
+cp ~/*.c ~/cat1/cat2/
+
+exercise 30
+cp -r ~/cat1 ~/cat1b
+
+exercise 31
+rm -f ~/cat1/cat2/*
+
+exercise 32
+rm -r ~/cat1b
+
+exercise 33
+mv ~/cat1/dev_tools_file1.txt ~/cat1/dev_tools_file2.txt
+
+exercise 34
+mv ~/cat1/cat2 ~/cat2b
